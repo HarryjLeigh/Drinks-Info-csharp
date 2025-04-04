@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrinksInfo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Utilities\\Util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrinksInfo\\Utilities\\Util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Services\\DrinksService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrinksInfo\\Services\\DrinksService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Controllers\\DrinksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrinksInfo\\Controllers\\DrinksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Views\\TableVisualisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrinksInfo\\Views\\TableVisualisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Utilities\\Util.cs",
+              "RelativeDocumentMoniker": "DrinksInfo\\Utilities\\Util.cs",
+              "ToolTip": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Utilities\\Util.cs",
+              "RelativeToolTip": "DrinksInfo\\Utilities\\Util.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:29:34.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrinksController.cs",
+              "DocumentMoniker": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Controllers\\DrinksController.cs",
+              "RelativeDocumentMoniker": "DrinksInfo\\Controllers\\DrinksController.cs",
+              "ToolTip": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Controllers\\DrinksController.cs",
+              "RelativeToolTip": "DrinksInfo\\Controllers\\DrinksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:28:25.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrinksService.cs",
+              "DocumentMoniker": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Services\\DrinksService.cs",
+              "RelativeDocumentMoniker": "DrinksInfo\\Services\\DrinksService.cs",
+              "ToolTip": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Services\\DrinksService.cs",
+              "RelativeToolTip": "DrinksInfo\\Services\\DrinksService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:28:21.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableVisualisation.cs",
+              "DocumentMoniker": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Views\\TableVisualisation.cs",
+              "RelativeDocumentMoniker": "DrinksInfo\\Views\\TableVisualisation.cs",
+              "ToolTip": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Views\\TableVisualisation.cs",
+              "RelativeToolTip": "DrinksInfo\\Views\\TableVisualisation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:27:21.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Program.cs",
+              "RelativeDocumentMoniker": "DrinksInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\harry\\Documents\\Rider\\DrinksInfo\\DrinksInfo\\Program.cs",
+              "RelativeToolTip": "DrinksInfo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:26:28.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

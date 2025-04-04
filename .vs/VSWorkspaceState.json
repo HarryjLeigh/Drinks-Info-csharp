@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DrinksInfo",
+    "\\DrinksInfo\\Controllers",
+    "\\DrinksInfo\\Models",
+    "\\DrinksInfo\\Services",
+    "\\DrinksInfo\\Utilities",
+    "\\DrinksInfo\\Views"
+  ],
+  "SelectedNode": "\\DrinksInfo\\Utilities\\UserInput.cs",
+  "PreviewInSolutionExplorer": false
+}
